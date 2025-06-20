@@ -56,8 +56,8 @@ project-root/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/reddit-to-redshift.git
-cd reddit-to-redshift
+git clone https://github.com/motconkien/reddit-real-time.git
+cd reddit-real-time
 
 # Start Airflow and services
 docker-compose up --build
